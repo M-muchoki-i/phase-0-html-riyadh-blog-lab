@@ -32,7 +32,7 @@ PARAGRAPH 2
 
 IMAGE 2 FILE
 
-`garden.jpg`
+`ggarden.jp`
 
 IMAGE 2 ALT TEXT
 
@@ -48,9 +48,9 @@ IMAGE 3 FILE
 
 IMAGE 3 ALT TEXT
 
-`The roads of Riyadh`
+`h`
 
-SMALLER SUB HEAD
+SMALLER SUB HEADThe roads of Riyad
 
 `Sources`
 

@@ -1,0 +1,22 @@
+.class{
+    color: darkmagenta;
+    font-size: medium;
+}
+#content{
+    font-size: small;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: chartreuse;
+    background-image: none;
+    
+}
+#img{
+    width: 180px;
+    height: 180px;
+}
+h2{
+    font-size: larger;
+    color: darkmagenta;
+}
+p{
+    color: darkred;
+}
