@@ -3,20 +3,34 @@
     font-size: medium;
 }
 #content{
-    font-size: small;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: chartreuse;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: burlywood
     background-image: none;
     
 }
 #img{
-    width: 180px;
-    height: 180px;
+    width: 400px;
+    height: 400px;
+    padding: 40px; 
+    background-color: aqua;
 }
 h2{
     font-size: larger;
     color: darkmagenta;
+    padding: 0%;
+    
 }
 p{
     color: darkred;
+    padding: 40px;
+    
+}
+#rdh{
+    width: 500px;
+    height: 500px;
+}
+h3{
+    font-size: larger;
+    background-color: ;
 }
